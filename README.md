@@ -1,2 +1,2 @@
 # PYTHON
- Repositório para códigos em Python
+ Repository for Python exercises.
